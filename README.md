@@ -10,6 +10,7 @@
  - GraphQL
 
 ## Backend
-Весь бэкэнд строился вокруг Keystone 5: cloudinary, server-side-graphql-client
-База данных **MongoDB**
+
+ - Весь бэкэнд строился вокруг Keystone 5: cloudinary, server-side-graphql-client
+ - База данных **MongoDB**
 
